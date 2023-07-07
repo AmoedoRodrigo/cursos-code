@@ -4,7 +4,7 @@
 ¡Hola! Este repositorio es un espacio donde voy a compartir los archivos de ejercicios que estoy realizando como parte de un curso de Python. Aquí podrás encontrar soluciones a diferentes problemas y desafíos, así como también mi progreso en el aprendizaje de Python.
 
 ## Sobre el Repositorio
-En este repositorio, estaré subiendo los archivos de los ejercicios que voy realizando a medida que avanzo en el curso. Cada ejercicio estará organizado en su propia carpeta, con una descripción del problema y mi solución correspondiente. Además, estaré actualizando constantemente el repositorio con nuevos ejercicios a medida que los vaya completando.
+En este repositorio, estaré subiendo los archivos de los ejercicios que voy realizando a medida que avanzo en el curso de Python de mi canal de YouTube con el objetivo dew que puedan practicar las cosas que van aprendiondo a lo largo de los cursos. Cada ejercicio estará organizado en su propia carpeta, con una descripción del problema y mi solución correspondiente. Además, estaré actualizando constantemente el repositorio con nuevos ejercicios a medida que los vaya completando.
 
 ## Estructura del Repositorio
 El repositorio está organizado de la siguiente manera:
