@@ -1,62 +1,24 @@
 # cursos-code
 
-# Ejercicio 1: Primer practica Python
+# Bienvenido(a) a mi repositorio de ejercicios de Python!
+¡Hola! Este repositorio es un espacio donde voy a compartir los archivos de ejercicios que estoy realizando como parte de un curso de Python. Aquí podrás encontrar soluciones a diferentes problemas y desafíos, así como también mi progreso en el aprendizaje de Python.
 
-En la lección "Taste of Python" de esta semana, hemos aprendido algunas cosas básicas en Python. Ahora tienen la oportunidad de demostrar sus habilidades.
+## Sobre el Repositorio
+En este repositorio, estaré subiendo los archivos de los ejercicios que voy realizando a medida que avanzo en el curso. Cada ejercicio estará organizado en su propia carpeta, con una descripción del problema y mi solución correspondiente. Además, estaré actualizando constantemente el repositorio con nuevos ejercicios a medida que los vaya completando.
 
-Este ejercicio está inspirado en una de las mejores series de ciencia ficcion de todos los tiempos "El Señor de los Anillos" de J.R.R. Tolkien, los ejercicios te serviran de practica tanto si conoces todo sobre LOTR como si no sabes nada (aunque a todos nos da pena jiji) 
+## Estructura del Repositorio
+El repositorio está organizado de la siguiente manera:
 
-## Problema 0 - Crear tu propio Jupyter notebook
-Abre Jupyter Lab de cualquiera de las formas que hemos mostrado en el curso (Local con conda, Kaggle o Google Colab)  y crea un nuevo notebook.
+- Carpeta Ejercicio-1: Contiene los archivos del Ejercicio 1.
+- Carpeta Ejercicio-2: Contiene los archivos del Ejercicio 2.
+- Carpeta Ejercicio-3: Contiene los archivos del Ejercicio 3.
+...
+** Uso del Repositorio
+Si estás siguiendo el mismo curso de Python o si simplemente te interesa aprender más sobre programación en Python, este repositorio puede ser de gran ayuda. Puedes explorar los ejercicios, revisar mis soluciones y compararlas con las tuyas propias. Además, puedes clonar este repositorio en tu máquina local para tener una copia de los archivos y trabajar en ellos.
 
-## Problema 1 - Definir algunas variables
-En la primera celda del nuevo notebook:
+** Contribuciones
+Si tienes alguna sugerencia, mejora o incluso quieres agregar tus propias soluciones a los ejercicios, ¡no dudes en hacerlo! Estoy abierto(a) a colaboraciones y a aprender de diferentes enfoques para resolver los problemas. Si deseas contribuir, simplemente realiza un "fork" de este repositorio, haz tus cambios y luego envía una solicitud de pull para que pueda revisar tus modificaciones y fusionarlas si son apropiadas.
 
-Crea una variable llamada "miembros_comunidad" y úsala para almacenar un valor entero (número entero) igual al numero de integrantes inciales de la comunidad del anillo que recuerdes su nombre completo.
-
-Crea otra variable llamada "hombres" y úsala para almacenar otro número entero igual a la cantidad de personajes humanos en esta comunidad que recuerdes su nombre.
-
-Ejecuta la celda presionando Shift-Enter.
-
-## Problema 2 - Leer los valores de las variables
-En la nueva celda que aparece:
-
-Usa la función "input()" para solicitar al usuario que ingrese el nombre de su personaje favorito y almacénalo en una variable llamada "first_name".
-
-Usa nuevamente la función "input()" para solicitar al usuario que ingrese el apellido de su personaje favorito y almacénalo en una variable llamada "last_name".
-
-(Opcional) Define una tercera variable llamada "full_name" que combine el nombre y apellido del personaje en una única cadena de caracteres con un espacio entre los nombres.
-
-Ejecuta la celda e ingresa la información solicitada en los campos correspondientes.
-
-## Problema 3 - Un poco de matemáticas
-Para evaluar la que tan humana era la comunidad, es necesario combinar las calificaciones de miembros y humanos. Para hacer esto:
-
-Calcula la proporcion entre las variables "hombres" y "miembros_comunidad" y almacena el valor resultante en una variable llamada "factor_humano".
-
-Ejecuta la celda presionando Shift-Enter.
-
-## Problema 4 - Verificación de los tipos de datos
-El siguiente paso es investigar los tipos de datos con los que estamos trabajando. En otra celda de Python:
-
-Utiliza una función interna de Python para verificar los tipos de datos de las variables "hombres", "miembros_comunidad" , "last_name" y "factor_humano". Para ver los tipos de datos de más de una variable en una sola celda de Python, deberás imprimir estos valores utilizando otra función interna de Python.
-
-Ejecuta la celda presionando Shift-Enter.
-
-¿Todos los tipos de datos tenían sentido? ¿Hubo algún tipo de datos que fuera diferente a lo esperado? En la nueva celda de Python que apareció después de ejecutar el código anterior, ingresa tus respuestas a las preguntas anteriores.
-
-Para la celda que contiene tus respuestas a las preguntas anteriores, cambia el tipo de celda de "Code" a "Markdown".
-
-Ejecuta la celda de Markdown presionando Shift-Enter.
-
-## Problema 5 - Mostrar texto en pantalla
-Por último, puedes utilizar tus habilidades en Python para generar una salida en pantalla similar a la siguiente. Utiliza un comando para generar cada línea de salida.
-
-Mi personaje favorito es Sam y recuerdo el nombre de 9 sobre 9 integrantes de la comunidad.
-Soy Sam Gamyi y no es parte del 0.2222222222222222 partes de los humanos del grupo.
-
-Ten en cuenta que tu código debe reemplazar "Sam" con el contenido de tu variable "first_name", "9" con el valor almacenado en la variable "miembros_comunidad", etc. Para tu texto equivalente con el nombre completo (por ejemplo, "Sam Gamyi"), puedes utilizar los valores de las variables "first_name" y "last_name", o el valor en la variable "full_name".
-
-Finalización del ejercicio
-Para completar este ejercicio, carga tus cambios en GitHub en tu propio repositorio del Ejercicio 1 que creaste utilizando el enlace de GitHub Classroom.
+** ¡Gracias por visitar mi repositorio!
+Agradezco tu interés en explorar mi repositorio de ejercicios de Python. Espero que encuentres los archivos útiles y que te ayuden en tu propio aprendizaje y práctica de Python. Si tienes alguna pregunta o sugerencia, no dudes en contactarme. ¡Disfruta explorando y programando en Python!
 
