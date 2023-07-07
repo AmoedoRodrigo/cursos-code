@@ -12,7 +12,8 @@ El repositorio está organizado de la siguiente manera:
 - Carpeta Ejercicio-1: Contiene los archivos del Ejercicio 1.
 - Carpeta Ejercicio-2: Contiene los archivos del Ejercicio 2.
 - Carpeta Ejercicio-3: Contiene los archivos del Ejercicio 3.
-...
+- ...
+  
 ** Uso del Repositorio
 Si estás siguiendo el mismo curso de Python o si simplemente te interesa aprender más sobre programación en Python, este repositorio puede ser de gran ayuda. Puedes explorar los ejercicios, revisar mis soluciones y compararlas con las tuyas propias. Además, puedes clonar este repositorio en tu máquina local para tener una copia de los archivos y trabajar en ellos.
 
