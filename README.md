@@ -1,6 +1,6 @@
 # cursos-code
 
-# Ejercicio 1: Cocinando un poco de Python
+# Ejercicio 1: Primer practica Python
 
 En la lección "Taste of Python" de esta semana, hemos aprendido algunas cosas básicas en Python. Ahora tienen la oportunidad de demostrar sus habilidades.
 
